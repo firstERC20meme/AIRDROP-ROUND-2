@@ -25,4 +25,4 @@ To see if you are are eligible for a specific round, search for your address in 
    - The entry criteria for each round are decided individually and will be communicated before the round starts. Join the discord for more information: https://discord.gg/7pbcDYqY3a
 
 - **Can I check if a claim is valid without connecting?**
- - Yes you can use the verify function on the contract, it returns true if the claim is valid and false if not. https://etherscan.io/address/0xbA51047a91d5bF6b86777A594D1714E8a337D120#readContract#F8 
+    - Yes you can use the verify function on the contract, it returns true if the claim is valid and false if not. https://etherscan.io/address/0xbA51047a91d5bF6b86777A594D1714E8a337D120#readContract#F8 
